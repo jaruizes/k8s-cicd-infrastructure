@@ -1,2 +1,3 @@
-# k8s-cicd-infrastructure
-Project to manage tools associated to CI/CD deployed within a K8S
+# infrastructure
+
+Project for resources associated to K8S cluster

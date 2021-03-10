@@ -1,0 +1,9 @@
+{
+  "emailAddress":"deploy@paradigmadigital.com",
+  "firstName":"deploy",
+  "lastName":"deploy",
+  "userId":"deploy",
+  "status": "active",
+  "roles": ["nx-admin"],
+  "password": "deploy123"
+}
